@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "634ea8e95f6e0f93f385a9eb"
+  },
+  "voucherId": 4,
+  "voucherName": "Diwali voucher",
+  "description": "Voucher for Diwali",
+  "createdAt": "015/10/2022",
+  "appliesFrom": "25/10/2022",
+  "discountExpiry": "25/12/2022",
+  "discountAmout": 500
+},{
+  "_id": {
+    "$oid": "634ea8e95f6e0f93f385a9e8"
+  },
+  "voucherId": 1,
+  "voucherName": "End of sale voucher",
+  "description": "EOS",
+  "createdAt": "11/12/2022",
+  "appliesFrom": "11/12/2022",
+  "discountExpiry": "15/12/2022",
+  "discountAmout": 200,
+  "disRate": 25,
+  "discountCount": 3
+},{
+  "_id": {
+    "$oid": "634ea8e95f6e0f93f385a9e9"
+  },
+  "voucherId": 2,
+  "voucherName": "Christmas voucher",
+  "description": "Voucher for christmas",
+  "createdAt": "05/12/2022",
+  "appliesFrom": "26/12/2022",
+  "discountExpiry": "26/12/2022",
+  "discountAmout": 300,
+  "discountCount": 5
+},{
+  "_id": {
+    "$oid": "634ea8e95f6e0f93f385a9ea"
+  },
+  "voucherId": 3,
+  "voucherName": "Songkran voucher",
+  "description": "Voucher for Songkran",
+  "createdAt": "01/04/2022",
+  "appliesFrom": "16/04/2022",
+  "discountExpiry": "16/12/2022",
+  "discountAmout": 200
+},{
+  "_id": {
+    "$oid": "634ea8e95f6e0f93f385a9ec"
+  },
+  "voucherId": 5,
+  "voucherName": "Independence day voucher",
+  "description": "Voucher for Independence day",
+  "createdAt": "10/10/2022",
+  "appliesFrom": "12/10/2022",
+  "discountExpiry": "12/12/2022",
+  "discountAmout": 1000,
+  "discountCount": 10
+},{
+  "_id": {
+    "$oid": "634eecfc5f6e0f93f385aa03"
+  },
+  "voucherId": 4,
+  "voucherName": "Diwali voucher",
+  "description": "Voucher for Diwali",
+  "createdAt": "015/10/2022",
+  "appliesFrom": "25/10/2022",
+  "discountExpiry": "25/12/2022",
+  "discountAmout": 500
+},{
+  "_id": {
+    "$oid": "634eecfc5f6e0f93f385aa00"
+  },
+  "voucherId": 1,
+  "voucherName": "End of sale voucher",
+  "description": "EOS",
+  "createdAt": "11/12/2022",
+  "appliesFrom": "11/12/2022",
+  "discountExpiry": "15/12/2022",
+  "discountAmout": 200,
+  "disRate": 25,
+  "discountCount": 3
+},{
+  "_id": {
+    "$oid": "634eecfc5f6e0f93f385aa04"
+  },
+  "voucherId": 5,
+  "voucherName": "Independence day voucher",
+  "description": "Voucher for Independence day",
+  "createdAt": "10/10/2022",
+  "appliesFrom": "12/10/2022",
+  "discountExpiry": "12/12/2022",
+  "discountAmout": 1000,
+  "discountCount": 10
+},{
+  "_id": {
+    "$oid": "634eecfc5f6e0f93f385aa01"
+  },
+  "voucherId": 2,
+  "voucherName": "Christmas voucher",
+  "description": "Voucher for christmas",
+  "createdAt": "05/12/2022",
+  "appliesFrom": "26/12/2022",
+  "discountExpiry": "26/12/2022",
+  "discountAmout": 300,
+  "discountCount": 5
+},{
+  "_id": {
+    "$oid": "634eecfc5f6e0f93f385aa02"
+  },
+  "voucherId": 3,
+  "voucherName": "Songkran voucher",
+  "description": "Voucher for Songkran",
+  "createdAt": "01/04/2022",
+  "appliesFrom": "16/04/2022",
+  "discountExpiry": "16/12/2022",
+  "discountAmout": 200
+}]

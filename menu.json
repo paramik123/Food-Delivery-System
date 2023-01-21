@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "634eba3b5f6e0f93f385a9f3"
+  },
+  "foodId": 2,
+  "foodName": "Butter Chicken",
+  "foodcategory": "Main dish",
+  "foodSubcategory": "Chicken",
+  "foodDescription": "Curd chicken filled with butter",
+  "price": 30,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 20,
+  "net_price": 90,
+  "user_id": 1,
+  "is_veg": false,
+  "ratingUserAvg": 4.6,
+  "Is_halal": true
+},{
+  "_id": {
+    "$oid": "634eba3b5f6e0f93f385a9f5"
+  },
+  "foodId": 4,
+  "foodName": "Fish and  chips",
+  "foodcategory": "Starter",
+  "foodSubcategory": "fish",
+  "foodDescription": "delicious fish with sauce",
+  "price": 50,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 20,
+  "net_price": 100,
+  "user_id": 2,
+  "is_veg": false,
+  "ratingUserAvg": 4.7,
+  "Is_halal": true
+},{
+  "_id": {
+    "$oid": "634eba3b5f6e0f93f385a9f2"
+  },
+  "foodId": 1,
+  "foodName": "Plain rice",
+  "foodcategory": "Main dish",
+  "foodDescription": "White scented rice",
+  "price": 21,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_rate": 10,
+  "net_price": 100,
+  "user_id": 1,
+  "is_veg": true,
+  "ratingUserAvg": 4.5,
+  "add_ons": [
+    {
+      "foodId": 0,
+      "foodName": "add on 1",
+      "foodDescription": "description of add-on 1"
+    },
+    {
+      "foodId": 4,
+      "foodName": "add on 2",
+      "foodDescription": "description of add-on 2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "634eba3b5f6e0f93f385a9f4"
+  },
+  "foodId": 3,
+  "foodName": "Pork strips",
+  "foodcategory": "Starter",
+  "foodSubcategory": "Pork",
+  "foodDescription": "Juicy pork",
+  "price": 40,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 10,
+  "net_price": 80,
+  "user_id": 1,
+  "is_veg": false,
+  "ratingUserAvg": 4.7,
+  "Is_halal": false
+},{
+  "_id": {
+    "$oid": "634eba3b5f6e0f93f385a9f6"
+  },
+  "foodId": 5,
+  "foodName": "Mochar bora",
+  "foodcategory": "Starter",
+  "foodSubcategory": "veg",
+  "foodDescription": "delicious paneer with curd",
+  "price": 20,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 5,
+  "net_price": 50,
+  "user_id": 3,
+  "is_veg": true,
+  "ratingUserAvg": 4.8,
+  "Is_halal": false
+},{
+  "_id": {
+    "$oid": "634eee295f6e0f93f385aa0d"
+  },
+  "foodId": 4,
+  "foodName": "Fish and  chips",
+  "foodcategory": "Starter",
+  "foodSubcategory": "fish",
+  "foodDescription": "delicious fish with sauce",
+  "price": 50,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 20,
+  "net_price": 100,
+  "user_id": 2,
+  "is_veg": false,
+  "ratingUserAvg": 4.7,
+  "Is_halal": true
+},{
+  "_id": {
+    "$oid": "634eee295f6e0f93f385aa0a"
+  },
+  "foodId": 1,
+  "foodName": "Plain rice",
+  "foodcategory": "Main dish",
+  "foodDescription": "White scented rice",
+  "price": 21,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_rate": 10,
+  "net_price": 100,
+  "user_id": 1,
+  "is_veg": true,
+  "ratingUserAvg": 4.5,
+  "add_ons": [
+    {
+      "foodId": 0,
+      "foodName": "add on 1",
+      "foodDescription": "description of add-on 1"
+    },
+    {
+      "foodId": 4,
+      "foodName": "add on 2",
+      "foodDescription": "description of add-on 2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "634eee295f6e0f93f385aa0e"
+  },
+  "foodId": 5,
+  "foodName": "Mochar bora",
+  "foodcategory": "Starter",
+  "foodSubcategory": "veg",
+  "foodDescription": "delicious paneer with curd",
+  "price": 20,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 5,
+  "net_price": 50,
+  "user_id": 3,
+  "is_veg": true,
+  "ratingUserAvg": 4.8,
+  "Is_halal": false
+},{
+  "_id": {
+    "$oid": "634eee295f6e0f93f385aa0b"
+  },
+  "foodId": 2,
+  "foodName": "Butter Chicken",
+  "foodcategory": "Main dish",
+  "foodSubcategory": "Chicken",
+  "foodDescription": "Curd chicken filled with butter",
+  "price": 30,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 20,
+  "net_price": 90,
+  "user_id": 1,
+  "is_veg": false,
+  "ratingUserAvg": 4.6,
+  "Is_halal": true
+},{
+  "_id": {
+    "$oid": "634eee295f6e0f93f385aa0c"
+  },
+  "foodId": 3,
+  "foodName": "Pork strips",
+  "foodcategory": "Starter",
+  "foodSubcategory": "Pork",
+  "foodDescription": "Juicy pork",
+  "price": 40,
+  "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+  "availability": true,
+  "discount_price": 10,
+  "net_price": 80,
+  "user_id": 1,
+  "is_veg": false,
+  "ratingUserAvg": 4.7,
+  "Is_halal": false
+}]

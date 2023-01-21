@@ -1,0 +1,624 @@
+[
+  {
+    "basic_info": {
+      "phone": "286-644-3376",
+      "name": {
+        "firstName": "Neda",
+        "middleName": "Merrigans",
+        "lastName": "Kikke"
+      },
+      "alternative_phone": "335-631-2237",
+      "defaultAddress": "Merrick"
+    },
+    "additionalInfo": {
+      "email": "nkikke0@cpanel.net",
+      "occupation": "Account Executive",
+      "AITid": 1,
+      "gender": "Female",
+      "DOB": "11/30/1997"
+    },
+    "time": {
+      "registeredAt": "2/3/2022",
+      "verifiedAt": "7/21/2022",
+      "updatedAt": "3/24/2022"
+    },
+    "isSeller": false,
+    "rating": {
+      "avgRating": 5,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 2,
+      "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+    },
+    "restaurant": {
+      "restaurantName": "Gérald",
+      "openingTime": "12/22/2021",
+      "closing_time": "10/25/2021",
+      "operatingDay": [
+        "tuesday"
+      ],
+      "rating": {
+        "avgRating": 2,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": true,
+      "image": "http://dummyimage.com/204x100.png/ff4444/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "5/28/2022",
+      "deliveryEndTime": "7/21/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "904-835-9085",
+      "name": {
+        "firstName": "Cynde",
+        "middleName": "Diddams",
+        "lastName": "Judson"
+      },
+      "alternative_phone": "363-295-2320",
+      "defaultAddress": "Clemons"
+    },
+    "additionalInfo": {
+      "email": "cjudson1@pcworld.com",
+      "occupation": "Editor",
+      "AITid": 2,
+      "gender": "Genderfluid",
+      "DOB": "4/5/1995"
+    },
+    "time": {
+      "registeredAt": "11/24/2021",
+      "verifiedAt": "7/28/2022",
+      "updatedAt": "8/15/2022"
+    },
+    "isSeller": false,
+    "rating": {
+      "avgRating": 5,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 2,
+      "ratingRemark": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus."
+    },
+    "restaurant": {
+      "restaurantName": "Irène",
+      "openingTime": "3/9/2022",
+      "closing_time": "5/21/2022",
+      "operatingDay": [
+        "tuesday",
+        "sunday",
+        "monday",
+        "monday",
+        "sunday"
+      ],
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": true,
+      "image": "http://dummyimage.com/176x100.png/cc0000/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "5/9/2022",
+      "deliveryEndTime": "9/1/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "959-582-4275",
+      "name": {
+        "firstName": "Hansiain",
+        "middleName": "Newlands",
+        "lastName": "Plunket"
+      },
+      "alternative_phone": "955-861-9582",
+      "defaultAddress": "Katie"
+    },
+    "additionalInfo": {
+      "email": "hplunket2@cloudflare.com",
+      "occupation": "Civil Engineer",
+      "AITid": 3,
+      "gender": "Male",
+      "DOB": "6/24/1995"
+    },
+    "time": {
+      "registeredAt": "5/17/2022",
+      "verifiedAt": "4/19/2022",
+      "updatedAt": "10/30/2021"
+    },
+    "isSeller": false,
+    "ratingInfo": {
+      "ratingScale": 4,
+      "ratingRemark": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+    },
+    "restaurant": {
+      "restaurantName": "Marie-hélène",
+      "openingTime": "11/9/2021",
+      "closing_time": "3/5/2022",
+      "operatingDay": [
+        "tuesday",
+        "monday",
+        "sunday",
+        "tuesday",
+        "monday"
+      ],
+      "has_delivery": false,
+      "image": "http://dummyimage.com/140x100.png/dddddd/000000"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "11/24/2021",
+      "deliveryEndTime": "3/5/2022",
+      "availability": false,
+      "rating": {
+        "avgRating": 5,
+        "ratingInfo": "Maecenas rhoncus aliquam lacus."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "955-615-0282",
+      "name": {
+        "firstName": "Linn",
+        "middleName": "Hannah",
+        "lastName": "Caukill"
+      },
+      "alternative_phone": "325-331-2090",
+      "defaultAddress": "Lakewood"
+    },
+    "additionalInfo": {
+      "email": "lcaukill3@tmall.com",
+      "occupation": "Automation Specialist I",
+      "AITid": 4,
+      "gender": "Bigender",
+      "DOB": "6/25/2000"
+    },
+    "time": {
+      "registeredAt": "6/30/2022",
+      "verifiedAt": "3/30/2022",
+      "updatedAt": "2/1/2022"
+    },
+    "isSeller": false,
+    "rating": {
+      "avgRating": 1,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 1,
+      "ratingRemark": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+    },
+    "restaurant": {
+      "restaurantName": "Ophélie",
+      "openingTime": "12/6/2021",
+      "closing_time": "1/2/2022",
+      "operatingDay": [
+        "tuesday",
+        "sunday",
+        "monday"
+      ],
+      "rating": {
+        "avgRating": 2,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": true,
+      "image": "http://dummyimage.com/141x100.png/cc0000/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "10/4/2022",
+      "deliveryEndTime": "9/22/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 3,
+        "ratingInfo": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "305-592-1211",
+      "name": {
+        "firstName": "Bari",
+        "middleName": "Troyes",
+        "lastName": "Cadd"
+      },
+      "alternative_phone": "982-381-8715",
+      "defaultAddress": "Ridgeway"
+    },
+    "additionalInfo": {
+      "email": "bcadd4@issuu.com",
+      "occupation": "Budget/Accounting Analyst IV",
+      "AITid": 5,
+      "gender": "Female",
+      "DOB": "3/7/2000"
+    },
+    "time": {
+      "registeredAt": "11/28/2021",
+      "verifiedAt": "10/28/2021",
+      "updatedAt": "3/4/2022"
+    },
+    "isSeller": false,
+    "rating": {
+      "avgRating": 1,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 4,
+      "ratingRemark": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+    },
+    "restaurant": {
+      "restaurantName": "Lài",
+      "openingTime": "12/15/2021",
+      "closing_time": "6/12/2022",
+      "operatingDay": [
+        "sunday",
+        "tuesday",
+        "monday",
+        "monday"
+      ],
+      "has_delivery": false,
+      "image": "http://dummyimage.com/192x100.png/ff4444/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "10/6/2022",
+      "deliveryEndTime": "11/11/2021",
+      "availability": false,
+      "rating": {
+        "avgRating": 4,
+        "ratingInfo": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "342-264-9684",
+      "name": {
+        "firstName": "Dorotea",
+        "middleName": "McEnhill",
+        "lastName": "Jeppensen"
+      },
+      "alternative_phone": "829-274-4893",
+      "defaultAddress": "Charing Cross"
+    },
+    "additionalInfo": {
+      "email": "djeppensen5@webs.com",
+      "occupation": "Operator",
+      "AITid": 6,
+      "gender": "Female",
+      "DOB": "11/8/1999"
+    },
+    "time": {
+      "registeredAt": "11/24/2021",
+      "verifiedAt": "7/6/2022",
+      "updatedAt": "2/9/2022"
+    },
+    "isSeller": true,
+    "ratingInfo": {
+      "ratingScale": 3,
+      "ratingRemark": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst."
+    },
+    "restaurant": {
+      "restaurantName": "André",
+      "openingTime": "7/6/2022",
+      "closing_time": "6/1/2022",
+      "operatingDay": [
+
+      ],
+      "rating": {
+        "avgRating": 2,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": true,
+      "image": "http://dummyimage.com/190x100.png/cc0000/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "9/27/2022",
+      "deliveryEndTime": "1/24/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 2,
+        "ratingInfo": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "135-553-8035",
+      "name": {
+        "firstName": "Harri",
+        "middleName": "Nix",
+        "lastName": "Orford"
+      },
+      "alternative_phone": "448-596-8005",
+      "defaultAddress": "Sage"
+    },
+    "additionalInfo": {
+      "email": "horford6@fema.gov",
+      "occupation": "Nuclear Power Engineer",
+      "AITid": 7,
+      "gender": "Female",
+      "DOB": "4/1/1998"
+    },
+    "time": {
+      "registeredAt": "5/4/2022",
+      "verifiedAt": "9/20/2022",
+      "updatedAt": "6/27/2022"
+    },
+    "isSeller": true,
+    "rating": {
+      "avgRating": 1,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 2,
+      "ratingRemark": "Pellentesque viverra pede ac diam."
+    },
+    "restaurant": {
+      "restaurantName": "Réservés",
+      "openingTime": "10/27/2021",
+      "closing_time": "2/11/2022",
+      "operatingDay": [
+        "monday",
+        "tuesday",
+        "sunday",
+        "sunday"
+      ],
+      "rating": {
+        "avgRating": 3,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": false,
+      "image": "http://dummyimage.com/168x100.png/cc0000/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "12/11/2021",
+      "deliveryEndTime": "12/2/2021",
+      "availability": true,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "201-643-0317",
+      "name": {
+        "firstName": "Cyndia",
+        "middleName": "Francioli",
+        "lastName": "Leverette"
+      },
+      "alternative_phone": "728-153-1152",
+      "defaultAddress": "Granby"
+    },
+    "additionalInfo": {
+      "email": "cleverette7@xing.com",
+      "occupation": "Chemical Engineer",
+      "AITid": 8,
+      "gender": "Female",
+      "DOB": "6/11/1992"
+    },
+    "time": {
+      "registeredAt": "12/21/2021",
+      "verifiedAt": "3/3/2022",
+      "updatedAt": "1/13/2022"
+    },
+    "isSeller": true,
+    "rating": {
+      "avgRating": 5,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 4,
+      "ratingRemark": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui."
+    },
+    "restaurant": {
+      "restaurantName": "Athéna",
+      "openingTime": "8/9/2022",
+      "closing_time": "6/29/2022",
+      "operatingDay": [
+        "tuesday"
+      ],
+      "has_delivery": true,
+      "image": "http://dummyimage.com/199x100.png/ff4444/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "2/13/2022",
+      "deliveryEndTime": "1/18/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "348-482-5007",
+      "name": {
+        "firstName": "Lorne",
+        "middleName": "Gunderson",
+        "lastName": "Brymner"
+      },
+      "alternative_phone": "951-845-0997",
+      "defaultAddress": "Oak Valley"
+    },
+    "additionalInfo": {
+      "email": "lbrymner8@dropbox.com",
+      "occupation": "Technical Writer",
+      "AITid": 9,
+      "gender": "Agender",
+      "DOB": "2/10/1994"
+    },
+    "time": {
+      "registeredAt": "10/11/2022",
+      "verifiedAt": "12/22/2021",
+      "updatedAt": "9/21/2022"
+    },
+    "isSeller": false,
+    "rating": {
+      "avgRating": 1,
+      "ratingInfo": [
+        {
+          "ratingScale": 2,
+          "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+        }
+      ]
+    },
+    "ratingInfo": {
+      "ratingScale": 5,
+      "ratingRemark": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+    },
+    "restaurant": {
+      "restaurantName": "Thérèse",
+      "openingTime": "8/19/2022",
+      "closing_time": "3/3/2022",
+      "operatingDay": [
+
+      ],
+      "rating": {
+        "avgRating": 4,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": true,
+      "image": "http://dummyimage.com/144x100.png/cc0000/ffffff"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "8/30/2022",
+      "deliveryEndTime": "1/18/2022",
+      "availability": false,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Pellentesque at nulla. Suspendisse potenti."
+      }
+    }
+  },
+  {
+    "basic_info": {
+      "phone": "783-771-9082",
+      "name": {
+        "firstName": "Halie",
+        "middleName": "Tavner",
+        "lastName": "Wilden"
+      },
+      "alternative_phone": "717-131-9463",
+      "defaultAddress": "Boyd"
+    },
+    "additionalInfo": {
+      "email": "hwilden9@go.com",
+      "occupation": "Analog Circuit Design manager",
+      "AITid": 10,
+      "gender": "Female",
+      "DOB": "1/16/1993"
+    },
+    "time": {
+      "registeredAt": "1/26/2022",
+      "verifiedAt": "3/11/2022",
+      "updatedAt": "8/31/2022"
+    },
+    "isSeller": true,
+    "ratingInfo": {
+      "ratingScale": 4,
+      "ratingRemark": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis."
+    },
+    "restaurant": {
+      "restaurantName": "Gwenaëlle",
+      "openingTime": "12/22/2021",
+      "closing_time": "2/16/2022",
+      "operatingDay": [
+        "monday"
+      ],
+      "rating": {
+        "avgRating": 2,
+        "ratingInfo": [
+          {
+            "ratingScale": 2,
+            "ratingRemark": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+          }
+        ]
+      },
+      "has_delivery": false,
+      "image": "http://dummyimage.com/184x100.png/dddddd/000000"
+    },
+    "delivery_user": {
+      "deliveryStartTime": "12/12/2021",
+      "deliveryEndTime": "6/9/2022",
+      "availability": true,
+      "rating": {
+        "avgRating": 1,
+        "ratingInfo": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus."
+      }
+    }
+  }
+]
